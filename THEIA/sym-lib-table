@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "GPTS203211B_THT_Switch")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/ESP32-Circuit/2022-03-25_16-40-37.lib")(options "")(descr ""))
+  (lib (name "105450-0101-USB-C-SNAPEDA")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/ESP32-Circuit/105450-0101.lib")(options "")(descr ""))
+  (lib (name "ariadne-rescue")(type "Legacy")(uri "/home/antonio/dev/ariadne/ariadne-rescue.lib")(options "")(descr ""))
+  (lib (name "upuaut_2Nils-rescue")(type "Legacy")(uri "/home/antonio/OpenSourceCelluloid/pcb/upuaut/upuaut/upuaut_2Nils-rescue.lib")(options "")(descr ""))
+  (lib (name "upuaut-rescue")(type "Legacy")(uri "/home/antonio/OpenSourceCelluloid/pcb/upuaut/upuaut/upuaut-rescue.lib")(options "")(descr ""))
+  (lib (name "murata-power-regulator-rescue")(type "Legacy")(uri "/home/antonio/dev/kicad-modules/murata-power-regulator/murata-power-regulator-rescue.lib")(options "")(descr ""))
+)
